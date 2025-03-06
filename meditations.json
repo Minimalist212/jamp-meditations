@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "title": "Morning Calm",
+    "duration": "10 min",
+    "image": "https://via.placeholder.com/150",
+    "video": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+    "background": "https://via.placeholder.com/500"
+  },
+  {
+    "id": "2",
+    "title": "Deep Relaxation",
+    "duration": "15 min",
+    "image": "https://via.placeholder.com/150",
+    "video": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+    "background": "https://via.placeholder.com/500"
+  }
+]
