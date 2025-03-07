@@ -1,11 +1,10 @@
 [
   {
     "id": "1",
-    "title": "Morning Calm",
-    "duration": "10 min",
-    "vimeoId": "123456789",
+    "title": "Meditation for Liberation",
+    "duration": "20 Min",
+    "vimeoId": "834418236",
     "image": "https://via.placeholder.com/150",
-    "video": "https://www.w3schools.com/html/mov_bbb.mp4",
     "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
     "background": "https://via.placeholder.com/500"
   },
@@ -14,7 +13,6 @@
     "title": "Deep Relaxation",
     "duration": "15 min",
     "image": "https://via.placeholder.com/150",
-    "video": "https://www.w3schools.com/html/mov_bbb.mp4",
     "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
     "background": "https://via.placeholder.com/500"
   },
@@ -23,7 +21,6 @@
     "title": "Affirmations of Body",
     "duration": "40 min",
     "image": "https://via.placeholder.com/150",
-    "video": "https://www.w3schools.com/html/mov_bbb.mp4",
     "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
     "background": "https://via.placeholder.com/500"
   },
@@ -32,7 +29,6 @@
     "title": "Affirmations of Heart Cycle",
     "duration": "30 min",
     "image": "https://via.placeholder.com/150",
-    "video": "https://www.w3schools.com/html/mov_bbb.mp4",
     "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
     "background": "https://via.placeholder.com/500"
   }
